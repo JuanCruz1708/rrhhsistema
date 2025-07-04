@@ -1,5 +1,4 @@
 streamlit
-sqlalchemy
-bcrypt
 pandas
-requests
+sqlalchemy
+plotly
