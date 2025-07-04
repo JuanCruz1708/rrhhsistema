@@ -1,4 +1,5 @@
-streamlit
-pandas
+fastapi
+uvicorn
 sqlalchemy
-plotly
+bcrypt
+python-multipart
